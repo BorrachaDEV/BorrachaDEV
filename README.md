@@ -1,5 +1,5 @@
 ### Print("Hello Wold 👋")
-`HTML` `CSS` `JAVASCRIPT` `Python`
+`HTML` `CSS` `JAVASCRIPT` `PYTHON`
 
 `Portugues :🇧🇷:`
 `Italian :it:`
