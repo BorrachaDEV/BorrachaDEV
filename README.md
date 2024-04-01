@@ -1,6 +1,2 @@
-### Print("Hello Wold 👋")
-`HTML` `CSS` `JAVASCRIPT` `PYTHON`
-
-`Portugues :🇧🇷:`
-`Italian :it:`
-`English :es:`
+# Print("👋 Hello,World!").
+## My name is Kauã Clay,Welcome to my Github profile !
